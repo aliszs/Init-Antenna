@@ -1,2 +1,2 @@
 # Init-Antenna
-Create Configuration file for Mikrotic Antenna
+Create Configuration file for Mikro tik Antenna
